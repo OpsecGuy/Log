@@ -1,2 +1,2 @@
-# Log
-Personal logging system that I use in every Python project
+# Collection
+Personal collection of tools/solutions that I use in (almost) every Python project
